@@ -1,2 +1,2 @@
 # Computer Vision Image Segmentation
- Different Neural Network Architectures for Image Segmentation
+computer_vision_with_a_special_focus_on_noise_removal_modelling
